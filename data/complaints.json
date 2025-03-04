@@ -1,0 +1,82 @@
+[
+	{
+		"id": 1,
+		"product_id": 1,
+		"issue_type": "Connectivity",
+		"description": "Hub keeps disconnecting from WiFi network",
+		"solution": "Ensure router is compatible with 5GHz networks. Update firmware to version 2.4.0 or higher.",
+		"frequency": 87
+	},
+	{
+		"id": 2,
+		"product_id": 1,
+		"issue_type": "Setup",
+		"description": "Cannot complete initial setup of the Hub",
+		"solution": "Reset the device by holding the reset button for 10 seconds. Ensure you're using the latest app version.",
+		"frequency": 64
+	},
+	{
+		"id": 3,
+		"product_id": 2,
+		"issue_type": "Functionality",
+		"description": "SmartBulb Pro won't change colors",
+		"solution": "Check if color changing is enabled in the app settings. If problem persists, factory reset the bulb by turning it on and off 5 times.",
+		"frequency": 53
+	},
+	{
+		"id": 4,
+		"product_id": 2,
+		"issue_type": "Connectivity",
+		"description": "SmartBulb Pro disconnects frequently",
+		"solution": "Place the SmartHaven Hub closer to the bulb. Check for interference from other wireless devices.",
+		"frequency": 71
+	},
+	{
+		"id": 5,
+		"product_id": 3,
+		"issue_type": "Accuracy",
+		"description": "Temperature readings from SmartSense seem inaccurate",
+		"solution": "Calibrate the sensor in the app settings. Ensure it's not placed near heat sources or in direct sunlight.",
+		"frequency": 42
+	},
+	{
+		"id": 6,
+		"product_id": 4,
+		"issue_type": "Battery",
+		"description": "SmartLock Plus battery drains too quickly",
+		"solution": "Update to firmware version 3.1.2 which includes power optimization. Consider using lithium batteries for longer life.",
+		"frequency": 91
+	},
+	{
+		"id": 7,
+		"product_id": 5,
+		"issue_type": "Video Quality",
+		"description": "SmartCam 360 has poor night vision",
+		"solution": "Clean the infrared sensors. Enable enhanced night mode in advanced settings.",
+		"frequency": 38
+	},
+	{
+		"id": 8,
+		"product_id": 6,
+		"issue_type": "Compatibility",
+		"description": "SmartPlug Mini doesn't work with high-power appliances",
+		"solution": "The SmartPlug Mini is rated for devices up to 1200W. For higher power devices, use the SmartPlug Pro model.",
+		"frequency": 56
+	},
+	{
+		"id": 9,
+		"product_id": 7,
+		"issue_type": "Accuracy",
+		"description": "SmartThermostat shows wrong room temperature",
+		"solution": "Place the thermostat away from drafts, sunlight, and heat sources. Run the calibration wizard in the app.",
+		"frequency": 63
+	},
+	{
+		"id": 10,
+		"product_id": 8,
+		"issue_type": "Display",
+		"description": "SmartScreen touch response is inconsistent",
+		"solution": "Ensure screen is clean. Update firmware to version 1.2.0 which includes touch sensitivity improvements.",
+		"frequency": 47
+	}
+]

@@ -1,0 +1,66 @@
+[
+	{
+		"id": 1,
+		"name": "SmartHaven Hub",
+		"category": "Controller",
+		"description": "Central hub for all SmartHaven devices",
+		"price": 149.99,
+		"launch_date": "2023-05-15"
+	},
+	{
+		"id": 2,
+		"name": "SmartBulb Pro",
+		"category": "Lighting",
+		"description": "Color-changing smart bulb with voice control",
+		"price": 29.99,
+		"launch_date": "2023-06-22"
+	},
+	{
+		"id": 3,
+		"name": "SmartSense",
+		"category": "Sensor",
+		"description": "Multi-purpose environmental sensor",
+		"price": 39.99,
+		"launch_date": "2023-08-10"
+	},
+	{
+		"id": 4,
+		"name": "SmartLock Plus",
+		"category": "Security",
+		"description": "Fingerprint and PIN code smart door lock",
+		"price": 199.99,
+		"launch_date": "2023-09-05"
+	},
+	{
+		"id": 5,
+		"name": "SmartCam 360",
+		"category": "Camera",
+		"description": "360-degree rotating security camera",
+		"price": 129.99,
+		"launch_date": "2024-01-20"
+	},
+	{
+		"id": 6,
+		"name": "SmartPlug Mini",
+		"category": "Power",
+		"description": "Compact smart plug with energy monitoring",
+		"price": 19.99,
+		"launch_date": "2023-07-11"
+	},
+	{
+		"id": 7,
+		"name": "SmartThermostat",
+		"category": "Climate",
+		"description": "AI-powered smart thermostat",
+		"price": 89.99,
+		"launch_date": "2023-11-30"
+	},
+	{
+		"id": 8,
+		"name": "SmartScreen",
+		"category": "Display",
+		"description": "7-inch touchscreen control panel",
+		"price": 179.99,
+		"launch_date": "2024-02-15"
+	}
+]

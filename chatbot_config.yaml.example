@@ -1,0 +1,21 @@
+name: Industrial NLP Chatbot
+version: 1.0.0
+description: NLP-powered chatbot for industrial support
+
+models:
+  default: groq
+  groq:
+    model_id: llama3-8b-8192
+    api_key: your_api_key
+  ollama:
+    model_id: llama3.2:latest
+    base_url: http://localhost:11434
+
+database:
+  type: sqlite
+  path: data/industrial_knowledge.db
+
+nlp:
+  sentence_transformer: all-MiniLM-L6-v2
+  max_tokens: 1024
+  temperature: 0.5

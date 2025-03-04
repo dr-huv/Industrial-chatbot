@@ -1,0 +1,72 @@
+[
+	{
+		"id": 1,
+		"product_id": 0,
+		"question": "How do I reset my SmartHaven device?",
+		"answer": "Most SmartHaven devices can be reset by holding the reset button for 10 seconds. The LED will flash to indicate a successful reset. For specific device reset instructions, please refer to the device manual.",
+		"category": "General"
+	},
+	{
+		"id": 2,
+		"product_id": 0,
+		"question": "Is the SmartHaven app compatible with both iOS and Android?",
+		"answer": "Yes, the SmartHaven app is compatible with iOS 12.0+ and Android 8.0+. You can download it from the App Store or Google Play Store.",
+		"category": "Software"
+	},
+	{
+		"id": 3,
+		"product_id": 1,
+		"question": "How many devices can I connect to one SmartHaven Hub?",
+		"answer": "A single SmartHaven Hub can support up to 50 connected devices. For larger setups, we recommend using multiple Hubs.",
+		"category": "Capacity"
+	},
+	{
+		"id": 4,
+		"product_id": 0,
+		"question": "Does SmartHaven work with voice assistants?",
+		"answer": "Yes, SmartHaven is compatible with Amazon Alexa, Google Assistant, and Apple HomeKit. To set up voice control, go to the Integrations section in the SmartHaven app.",
+		"category": "Compatibility"
+	},
+	{
+		"id": 5,
+		"product_id": 0,
+		"question": "What's the warranty period for SmartHaven products?",
+		"answer": "All SmartHaven products come with a 2-year limited warranty. Premium products like the SmartHaven Hub and SmartLock Plus include an extended 3-year warranty.",
+		"category": "Warranty"
+	},
+	{
+		"id": 6,
+		"product_id": 0,
+		"question": "How do I update the firmware on my devices?",
+		"answer": "Firmware updates are managed through the SmartHaven app. Go to Settings > Devices, select your device, and tap 'Check for Updates'. We recommend keeping automatic updates enabled.",
+		"category": "Maintenance"
+	},
+	{
+		"id": 7,
+		"product_id": 2,
+		"question": "How accurate is the temperature sensor on the SmartSense?",
+		"answer": "The SmartSense temperature readings are accurate to ±0.5°C. For highest accuracy, place the sensor away from direct heat sources, sunlight, and drafts.",
+		"category": "Specifications"
+	},
+	{
+		"id": 8,
+		"product_id": 4,
+		"question": "Can I access SmartCam recordings without a subscription?",
+		"answer": "Yes, you can access the last 24 hours of recordings without a subscription. For extended storage of 30 days, 60 days, or 90 days, you'll need a SmartHaven Cloud subscription.",
+		"category": "Subscriptions"
+	},
+	{
+		"id": 9,
+		"product_id": 6,
+		"question": "Can I control the SmartPlug Mini when I'm away from home?",
+		"answer": "Yes, as long as your SmartHaven Hub is connected to the internet, you can control all your devices remotely through the SmartHaven app from anywhere in the world.",
+		"category": "Remote Access"
+	},
+	{
+		"id": 10,
+		"product_id": 4,
+		"question": "Is the SmartLock Plus weatherproof?",
+		"answer": "The SmartLock Plus has an IP65 rating, making it resistant to dust and low-pressure water jets. It's suitable for covered outdoor installations but should not be directly exposed to heavy rain.",
+		"category": "Durability"
+	}
+]
